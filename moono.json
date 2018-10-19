@@ -1,8 +1,10 @@
 {
-	"name"     : "Moono",
-	"cssurls"  : "https://cdn.jsdelivr.net/gh/lokothodida/elfinder-theme-moono@eef253b2a41ec245bd3766aabfc9f45970c8d29f/moono/css/theme.min.css",
-	"author"   : "lokothodida",
-	"license"  : "MIT",
-	"link"     : "https://github.com/lokothodida/elfinder-theme-moono",
-	"image"    : ""
+  "name":"Moono",
+  "cssurls":"https://cdn.jsdelivr.net/gh/lokothodida/elfinder-theme-moono@eef253b2a41ec245bd3766aabfc9f45970c8d29f/moono/css/theme.min.css",
+  "author":"Lawrence Okoth-Odida",
+  "email":"",
+  "license":"MIT",
+  "link":"https://github.com/lokothodida/elfinder-theme-moono",
+  "image":"https://cloud.githubusercontent.com/assets/4363863/9115748/95e2dcf2-3c58-11e5-8bbb-6c17074a5b35.png",
+  "description":"A theme for elFinder that mimics CKEditor's Moono skin."
 }
