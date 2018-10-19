@@ -1,0 +1,10 @@
+{
+  "name":"Bootstrap and LibreICONS",
+  "cssurls":"https://cdn.jsdelivr.net/gh/DiemenDesign/LibreICONS@4.2/themes/elFinder/css/theme-bootstrap-libreicons-svg.css",
+  "author":"StudioJunkyard",
+  "email":"",
+  "license":"MIT",
+  "link":"https://github.com/DiemenDesign/LibreICONS/tree/master/themes/elFinder",
+  "image":"",
+  "description":"Bootstrap like theme for elFinder LibreICONS SVG Edition."
+}
