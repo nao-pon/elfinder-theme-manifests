@@ -1,6 +1,6 @@
 {
 	"name": "Dark Slim",
-	"cssurls": "https://cdn.jsdelivr.net/gh/johnfort/elFinder.themes@308bd5fa2a90a3d95ac8b8d27492d4a2cffcc730/dark-slim/css/elfinder.theme.min.css",
+	"cssurls": "https://cdn.jsdelivr.net/gh/johnfort/elFinder.themes/dark-slim/css/elfinder.theme.min.css",
 	"author": "John Fort",
 	"email": "support@fortcms.ru",
 	"license": "MIT",
